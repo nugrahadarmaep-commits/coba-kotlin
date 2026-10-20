@@ -1,3 +1,6 @@
+app/src/main/java/com/example/day4projectkt
+
+
 # Tugas Pertemuan 5 - Pemrograman Mobile
 
 **Pengembangan Layout dan Adaptive UI dengan Jetpack Compose**
@@ -16,13 +19,14 @@ Tampilan antarmuka berhasil dijalankan dan diuji langsung melalui emulator Andro
 
 > Layar vertikal (lebar < 600 dp). Menggunakan susunan satu kolom penuh tanpa bilah navigasi samping agar konten tetap proporsional dan mudah dibaca di layar kecil.
 
-![Screenshot Tampilan Ponsel](screenshot_phone.png)
+<img width="296" height="596" alt="image" src="https://github.com/user-attachments/assets/bcb490cd-b6d0-4cdb-9ca2-1ec9647fb132" />
 
 ### B. Tampilan Mode Tablet / Layar Lebar (Expanded Window)
 
 > Layar landscape/lebar (lebar >= 840 dp). Tata letak secara otomatis beradaptasi dengan menampilkan bilah navigasi samping (sidebar) dan membagi kartu mata kuliah ke dalam beberapa kolom grid.
 
-![Screenshot Tampilan Tablet](screenshot_tablet.png)
+<img width="670" height="522" alt="image" src="https://github.com/user-attachments/assets/51c1bddc-cb34-481d-906d-5fc82c679ef7" />
+
 
 ---
 
