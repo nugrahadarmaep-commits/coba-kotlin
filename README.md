@@ -1,4 +1,4 @@
-app/src/main/java/com/example/day4projectkt
+main project => app/src/main/java/com/example/day4projectkt
 
 
 # Tugas Pertemuan 5 - Pemrograman Mobile
