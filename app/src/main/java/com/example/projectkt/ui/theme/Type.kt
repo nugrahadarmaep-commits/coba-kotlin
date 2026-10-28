@@ -1,4 +1,4 @@
-package com.example.day4projectkt.ui.theme
+package com.example.projectkt.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
